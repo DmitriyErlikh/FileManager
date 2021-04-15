@@ -1,4 +1,5 @@
 # FileManager
+![Image alt](https://github.com/{DmitriyErlikh}/{FileManager}/raw/{master}/JSESKk_7Xno.jpg)
 ### Данное консольное приложение представляет из себя файловый менеджер со стандартным набором функций:
 - Переход по директориям;
 - Создание новый директорий;
